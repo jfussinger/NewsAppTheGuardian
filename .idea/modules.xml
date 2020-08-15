@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NewsApp_(Guardian).iml" filepath="$PROJECT_DIR$/.idea/modules/NewsApp_(Guardian).iml" group="NewsApp_(Guardian)" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="NewsApp (Guardian)/app" />
+    </modules>
+  </component>
+</project>

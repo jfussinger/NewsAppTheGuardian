@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="app_label">App Label</string>
+
+    <string name="search_hint">Search Hint</string>
+
+    <string name="search_button">Search Button</string>
+
+    <string name="search_label">Search Label</string>
+
+    <string name="webTitle">Web Title</string>
+
+    <string name="sectionName">Section Name</string>
+
+    <string name="webPublicationDate">Mar 6, 2010</string>
+
+    <string name="contributor">Contributor</string>
+
+    <!-- Text to display in the list when there are no news found [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- If no specific author not found is given [CHAR LIMIT=30] -->
+    <string name="not_found">Not Found</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+</resources>
